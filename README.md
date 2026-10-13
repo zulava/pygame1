@@ -44,7 +44,7 @@ This tutorial is for **advanced-level middle school students** who already under
 2. Type:
 
    ```bash
-   pip install pygame
+   pip install pygame-ce
    ```
 
 3. Verify it worked:
